@@ -1,0 +1,9 @@
+
+    Rapid Prototype
+    ( เว็บแอพพลิเคชันต้นแบบ )
+
+    Fungible / Non-Fungible Token
+    ( NFT )
+
+    Basic crypto eCommerce
+    ( การใช้จ่ายด้วย crypto )
